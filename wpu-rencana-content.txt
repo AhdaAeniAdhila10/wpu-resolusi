@@ -4,5 +4,7 @@ RENCANA KONTEN WPU
  *FRAMEWORK JAVASCRIPT
 - struktur data dasar 
 - PHP fromework
+ ^ laravel
 - Inerview
 - Vlog
+- python
