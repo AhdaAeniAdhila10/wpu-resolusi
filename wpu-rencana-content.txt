@@ -4,8 +4,9 @@ RENCANA KONTEN WPU
  *FRAMEWORK JAVASCRIPT
  ^ Vue
  ^ React
+- Struktur data dasar
 - PHP fromework
-^ Laravel
-- Interview
+ ^ laravel
+- Inerview
 - Vlog
 - python
