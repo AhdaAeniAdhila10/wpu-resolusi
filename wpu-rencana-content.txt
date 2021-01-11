@@ -2,9 +2,8 @@ RENCANA KONTEN WPU
 - JAVA SCRIPT
  * ES6
  *FRAMEWORK JAVASCRIPT
- ^ vue
- ^ React
-- struktur data dasar 
+ ^ Angular
+ ^ React 
 - PHP fromework
  ^ laravel
 - Inerview
