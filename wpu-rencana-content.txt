@@ -2,6 +2,7 @@ RENCANA KONTEN WPU
 - JAVA SCRIPT
  * ES6
  *FRAMEWORK JAVASCRIPT
+- struktur data dasar 
 - PHP fromework
 - Inerview
 - Vlog
